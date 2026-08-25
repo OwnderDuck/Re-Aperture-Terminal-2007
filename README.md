@@ -3,10 +3,16 @@
 > A C++ reimplementation of the Aperture Science Terminal originally hosted on [aperturescience.com](https://aperturescience.com) in 2007.
 
 [简体中文](docs/README-zh_CN.md)
+
 ## Introduction
 There is a Aperture Science Terminal built with Flash in [aperturescience.com](https://aperturescience.com) in 2007. But Flash was gone a long time ago.
 
 Now I reimplement it in C++.
+
+**click to watch ->**
+<a href="https://www.youtube.com/watch?v=jrCEtUQTuaU">
+  <img src="https://img.youtube.com/vi/jrCEtUQTuaU/maxresdefault.jpg" width="480">
+</a>
 ## Status
 Almost complete — only three minor easter eggs remain, which are not planned for implementation.
 ## Build
